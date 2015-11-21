@@ -1,0 +1,23 @@
+{
+  "name": "house-price-calculate",
+  "main": "house-price-calculate.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/house-price-calculate",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Estimate the total price of a house.",
+  "keywords": [
+    "calculator",
+    "mortgage",
+    "math"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
